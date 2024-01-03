@@ -1,0 +1,12 @@
+string class java provided stri
+ class this string class provided a set of pre defined function like 
+
+ length 
+ charAt
+ toLowerCase
+ toUpperCase
+ equals
+ equalsIgnoreCase
+ compareTo
+
+ to performed various string releve operation 
