@@ -1,5 +1,5 @@
-string class java provided stri
- class this string class provided a set of pre defined function like 
+string class java provided
+ class this string class provided a set of pre-defined functions like 
 
  length 
  charAt
@@ -7,6 +7,6 @@ string class java provided stri
  toUpperCase
  equals
  equalsIgnoreCase
- compareTo
+ compare it returns the differential askey value of two given strings if two strings are the same it returns zero, the string you are comparing with another string is bigger you get +ve integer and if it's smaller we get -Ve integer.
 
- to performed various string releve operation 
+ to perform various string relief operation 
